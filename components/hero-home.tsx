@@ -11,8 +11,7 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Analyze your coding time <br className="max-lg:hidden" /> like
-              never before
+              Revolutionize Your Coding Efficiency
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -20,9 +19,10 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Prodtracker is a cutting-edge task manager for coders, helping
-                you efficiently track tasks, visualize progress, and analyze
-                your coding time like never before.
+                Prodtracker is the ultimate task management tool for developers,
+                enabling you to seamlessly track tasks, monitor progress, and
+                gain unprecedented insights into your coding time. Optimize your
+                workflow and boost productivity like never before
               </p>
               <div
                 className="mx-auto max-w-7xl sm:flex sm:max-w-none sm:justify-center"

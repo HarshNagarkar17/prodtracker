@@ -38,7 +38,7 @@ const JoinWaitlist = () => {
     <div className="flex flex-col">
       <form
         onSubmit={handleSubmit}
-        className="flex items-center justify-center max-w-7xl gap-4"
+        className="flex flex-col md:flex-row items-center justify-center max-w-7xl gap-4"
       >
         <input
           id="email"
