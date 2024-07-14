@@ -3,8 +3,10 @@ const page = () => {
     <section className="relative">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 ">
         <div className="pb-12 pt-36 max-w-5xl">
-          <h2 className="text-4xl font-semibold mb-4">What is Prodtracker?</h2>
-          <p>
+          <h2 className="text-4xl border-y font-semibold mb-6 [border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1]">
+            What is Prodtracker?
+          </h2>
+          <p className="text-[1rem]">
             Prodtracker is a cutting-edge tasks tracker app designed
             specifically for developers. Our mission is to help coders
             streamline their workflows, track their tasks efficiently, and gain
