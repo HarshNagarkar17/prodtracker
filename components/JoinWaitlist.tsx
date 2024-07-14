@@ -43,7 +43,7 @@ const JoinWaitlist = () => {
         <input
           id="email"
           className="form-input w-[280px] py-2"
-          type="text"
+          type="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder="youremail@email.com"
